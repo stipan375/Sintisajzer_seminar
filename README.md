@@ -1,0 +1,2 @@
+# Sintisajzer_seminar
+Seminarski_rad_URS_Martic
